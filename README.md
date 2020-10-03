@@ -3,7 +3,12 @@
 - WAZE
 - OPEN STREETMAP
 
+Flight 
+https://www.flightradar24.com/data/airports/malaysia
+
 ECONOMIC 
+
+Bank Negara Malaysia 
 https://api.bnm.gov.my/portal
 - Base Rates
 - Daily FX Turnover
@@ -33,8 +38,15 @@ https://www.data.gov.my/
 - Pemilikan
 - Kesihatan
 
-YAHOO FINANCE
-https://finance.yahoo.com/sector/ms_basic_materials
+Weather Forecast
+https://www.weather-atlas.com/en/malaysia-climate
+- Locations
+- Temperature
+
+Yellow Pages
+https://www.yellowpages.my/listing/results.php?keyword=technology&where=malaysia
+
+
 
 
 
