@@ -1,8 +1,8 @@
 ### API CATALOG
+
 - WAZE
 - OPEN STREETMAP
 
-### DATA CATALOG
 ECONOMIC 
 https://api.bnm.gov.my/portal
 - Base Rates
@@ -10,14 +10,10 @@ https://api.bnm.gov.my/portal
 - Exchange Rates
 - Financial Consumer Alert
 
-### OPEN DATA
-https://www.data.gov.my/
-- Bajet
-- Bancian
-- Jenayah
-- Perbelanjaan Kerajaan
-- Pemilikan
-- Kesihatan
+YAHOO FINANCE
+https://finance.yahoo.com/sector/ms_basic_materials
+
+### DATA CATALOG
 
 COVID19
 http://covid-19.moh.gov.my/
@@ -27,6 +23,14 @@ BURSA MALAYSIA
 - ACE MARKET
 - LEAP MARKET
 
+### OPEN DATA
+https://www.data.gov.my/
+- Bajet
+- Bancian
+- Jenayah
+- Perbelanjaan Kerajaan
+- Pemilikan
+- Kesihatan
 
 YAHOO FINANCE
 https://finance.yahoo.com/sector/ms_basic_materials
