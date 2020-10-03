@@ -21,7 +21,12 @@ COVID19
 http://covid-19.moh.gov.my/
 
 BURSA MALAYSIA
+- MAIN MARKET
+- ACE MARKET
+- LEAP MARKET
 
+
+YAHOO FINANCE
 
 
 
