@@ -15,7 +15,7 @@ https://api.bnm.gov.my/portal
 - Exchange Rates
 - Financial Consumer Alert
 
-YAHOO FINANCE
+Yahoo Finance
 https://finance.yahoo.com/sector/ms_basic_materials
 
 ### DATA CATALOG
@@ -23,7 +23,7 @@ https://finance.yahoo.com/sector/ms_basic_materials
 COVID19
 http://covid-19.moh.gov.my/
 
-BURSA MALAYSIA 
+Bursa Malaysia 
 https://www.bursamalaysia.com/
 - MAIN MARKET
 - ACE MARKET
