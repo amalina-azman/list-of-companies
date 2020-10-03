@@ -1,6 +1,10 @@
-# DATA CATALOGUE
+# DATA CATALOG
 
-LIST OF DATA SOURCE
+API CATALOG
+- WAZE
+- OPEN STREETMAP
+
+DATA CATALOG
 
 ECONOMIC 
 https://api.bnm.gov.my/portal
@@ -9,6 +13,7 @@ https://api.bnm.gov.my/portal
 - Exchange Rates
 - Financial Consumer Alert
 
+OPEN DATA
 https://www.data.gov.my/
 - Bajet
 - Bancian
@@ -27,7 +32,7 @@ BURSA MALAYSIA
 
 
 YAHOO FINANCE
-
+https://finance.yahoo.com/sector/ms_basic_materials
 
 
 
