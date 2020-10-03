@@ -2,18 +2,27 @@
 
 LIST OF DATA SOURCE
 
-MAMPU
-https://www.data.gov.my/data/ms_MY/dataset/maklumat-usahawan-bumiputra-yang-berdaftar-di-bawah-program-pruns-pknns
-- Company name
-- Owner name
-- Company address
-- Phone number
-- Type of business
-- Category
+ECONOMIC 
+https://api.bnm.gov.my/portal
+- Base Rates
+- Daily FX Turnover
+- Exchange Rates
+- Financial Consumer Alert
 
-WEATHER FORECAST
-https://www.weather-atlas.com/en/malaysia-climate
-- State
-- Temperature
-- 
+https://www.data.gov.my/
+- Bajet
+- Bancian
+- Jenayah
+- Perbelanjaan Kerajaan
+- Pemilikan
+- Kesihatan
+
+COVID19
+http://covid-19.moh.gov.my/
+
+BURSA MALAYSIA
+
+
+
+
 
