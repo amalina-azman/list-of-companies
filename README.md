@@ -4,7 +4,7 @@
 - WAZE
 - OPEN STREETMAP
 
-DATA CATALOG
+## DATA CATALOG
 
 ECONOMIC 
 https://api.bnm.gov.my/portal
@@ -13,7 +13,7 @@ https://api.bnm.gov.my/portal
 - Exchange Rates
 - Financial Consumer Alert
 
-OPEN DATA
+## OPEN DATA
 https://www.data.gov.my/
 - Bajet
 - Bancian
