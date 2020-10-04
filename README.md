@@ -89,7 +89,10 @@ https://www.weather-atlas.com/en/malaysia-climate
 Yellow Pages<br/>
 https://www.yellowpages.my/listing/results.php?keyword=technology&where=malaysia
 
-
+| Command | Description |
+| --- | --- |
+| git status | List all new or modified files |
+| git diff | Show file differences that haven't been staged |
 
 
 
