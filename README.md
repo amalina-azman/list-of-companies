@@ -95,4 +95,7 @@ https://www.yellowpages.my/listing/results.php?keyword=technology&where=malaysia
 | git diff | Show file differences that haven't been staged |
 
 
-
+| Left-aligned | Center-aligned | Right-aligned |
+| :---         |     :---:      |          ---: |
+| git status   | git status     | git status    |
+| git diff     | git diff       | git diff      |
