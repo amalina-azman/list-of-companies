@@ -3,7 +3,7 @@
 - Wazw
 - Open Streetmap
 
-Flight 
+Flight<br/>
 https://www.flightradar24.com/data/airports/malaysia
 
 ECONOMIC 
@@ -15,18 +15,18 @@ https://api.bnm.gov.my/portal
 - Exchange Rates
 - Financial Consumer Alert
 
-Yahoo Finance
+Yahoo Finance<br/>
 https://finance.yahoo.com/sector/ms_basic_materials
 
 ### DATA CATALOG
 
-COVID19
+COVID19<br/>
 http://covid-19.moh.gov.my/
 
-Bursa Malaysia 
+Bursa Malaysia<br/>
 https://www.bursamalaysia.com/
-- MAIN MARKET
-a) Top 30 Main Market https://www.bursamalaysia.com/trade/trading_resources/listing_directory/main_market
+- MAIN MARKET<br/>
+a) Top 30 Main Market<br/> https://www.bursamalaysia.com/trade/trading_resources/listing_directory/main_market<br/>
 *combination of former main and second board companies*
 
 - ACE MARKET
@@ -41,12 +41,12 @@ https://www.data.gov.my/
 - Pemilikan
 - Kesihatan
 
-Weather Forecast
+Weather Forecast<br/>
 https://www.weather-atlas.com/en/malaysia-climate
 - Locations
 - Temperature
 
-Yellow Pages
+Yellow Pages<br/>
 https://www.yellowpages.my/listing/results.php?keyword=technology&where=malaysia
 
 
