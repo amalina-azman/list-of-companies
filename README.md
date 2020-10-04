@@ -26,6 +26,9 @@ http://covid-19.moh.gov.my/
 Bursa Malaysia 
 https://www.bursamalaysia.com/
 - MAIN MARKET
+a) Top 30 Main Market https://www.bursamalaysia.com/trade/trading_resources/listing_directory/main_market
+*combination of former main and second board companies*
+
 - ACE MARKET
 - LEAP MARKET
 
