@@ -1,14 +1,14 @@
 ### API CATALOG
 
-- WAZE
-- OPEN STREETMAP
+- Wazw
+- Open Streetmap
 
 Flight 
 https://www.flightradar24.com/data/airports/malaysia
 
 ECONOMIC 
 
-Bank Negara Malaysia 
+Bank Negara Malaysia<br/> 
 https://api.bnm.gov.my/portal
 - Base Rates
 - Daily FX Turnover
