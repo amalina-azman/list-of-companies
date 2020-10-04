@@ -99,3 +99,8 @@ https://www.yellowpages.my/listing/results.php?keyword=technology&where=malaysia
 | :---         |     :---:      |          ---: |
 | git status   | git status     | git status    |
 | git diff     | git diff       | git diff      |
+
+| Name     | Character |
+| ---      | ---       |
+| Backtick | `         |
+| Pipe     | \|        |
