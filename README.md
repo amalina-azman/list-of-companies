@@ -27,7 +27,11 @@ Bursa Malaysia<br/>
 https://www.bursamalaysia.com/
 - MAIN MARKET<br/>
 a) Top 30 Main Market<br/> https://www.bursamalaysia.com/trade/trading_resources/listing_directory/main_market<br/>
-*combination of former main and second board companies*
+*combination of former main and second board companies<br/>
+Involve big companies such as AirAsia,Petronas etc<br/>
+Must have strong financial(account must be evaluated)<br/>
+25% of its total share issued spread to stakeholder*
+
 
 - ACE MARKET
 - LEAP MARKET
