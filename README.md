@@ -1,6 +1,6 @@
 ### API CATALOG
 
-- Wazw
+- Waze
 - Open Streetmap
 
 Flight<br/>
@@ -14,6 +14,16 @@ https://api.bnm.gov.my/portal
 - Daily FX Turnover
 - Exchange Rates
 - Financial Consumer Alert
+- Interbank Swap
+- Interest Rate
+- Interest Volume
+- Islamic Interbank Rate
+- Kijang Emas
+- Overnight Policy Rate(OPR)
+- Renminbi
+- USD/MYR Interbank Intraday Rate
+- KL USD/MYR Reference Rate
+
 
 Yahoo Finance<br/>
 https://finance.yahoo.com/sector/ms_basic_materials
@@ -32,22 +42,45 @@ Involve big companies such as AirAsia,Petronas etc<br/>
 Must have strong financial(account must be evaluated)<br/>
 25% of its total share issued spread to stakeholder*
 
+- ACE MARKET<br/>
+a) Top 30 Ace Market<br/>
+https://www.bursamalaysia.com/trade/trading_resources/listing_directory/ace_market<br/>
+*ACE for 'Access,Certainty,Effeciency'<br/>
+Previously known as MESDAQ<br/>
+Main in technology sector company<br/>
+Less stringent and not providing track records<br/>
+Low profitability approved for IT industry<br/>*
 
-- ACE MARKET
-- LEAP MARKET
+- LEAP MARKET<br/>
+a) Top 30 Leap Market<br/>
+https://www.bursamalaysia.com/trade/trading_resources/listing_directory/leap_market
+*Platform for SME to raise funds<br/>
+Accesible to Sophiscated Investors eg. Total assets >RM10 B/Personal assets >RM3 M<br/>
+*
 
 ### OPEN DATA
 https://www.data.gov.my/
+- Pilihanraya Kebangsaan
 - Bajet
 - Bancian
-- Jenayah
+- Perundangan
+- Kontrak Awam
 - Perbelanjaan Kerajaan
-- Pemilikan
+- Pemilikan Tanah
+- Statistik Kebangsaan 
+- Jenayah
+- Perdagangan Antarabangsa
+- Pendaftaran Syarikat
+- Pemetaan
+- Pendidikan
+- Pertanian
+- Alam Sekitar
 - Kesihatan
+- Pengangkutan
 
 Weather Forecast<br/>
 https://www.weather-atlas.com/en/malaysia-climate
-- Locations
+- Location
 - Temperature
 
 Yellow Pages<br/>
