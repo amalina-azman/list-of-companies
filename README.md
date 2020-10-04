@@ -1,10 +1,13 @@
 ### API CATALOG
 
-- Waze
-- Open Streetmap
+Waze<br/>
+https://www.waze.com/livemap?bifrost_routing=yes&utm_expid=.NMSW4Hk_Rg6AFGKx-rAj4A.2&utm_referrer=https%3A%2F%2Fdevelopers.google.com%2F<br/>
+
+Open Streetmap<br/>
+https://www.openstreetmap.org/#map=7/4.560/103.983<br/>
 
 Flight<br/>
-https://www.flightradar24.com/data/airports/malaysia
+https://www.flightradar24.com/3.96,102.26/7<br/>
 
 ECONOMIC 
 
@@ -53,7 +56,7 @@ Low profitability approved for IT industry<br/>*
 
 - LEAP MARKET<br/>
 a) Top 30 Leap Market<br/>
-https://www.bursamalaysia.com/trade/trading_resources/listing_directory/leap_market
+https://www.bursamalaysia.com/trade/trading_resources/listing_directory/leap_market<br/>
 *Platform for SME to raise funds<br/>
 Accesible to Sophiscated Investors eg. Total assets >RM10 B/Personal assets >RM3 M<br/>
 *
