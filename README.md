@@ -89,11 +89,19 @@ https://www.weather-atlas.com/en/malaysia-climate
 Yellow Pages<br/>
 https://www.yellowpages.my/listing/results.php?keyword=technology&where=malaysia
 
-| Command | Description |
-| --- | --- |
-| git status | List all new or modified files |
-| git diff | Show file differences that haven't been staged |
+###### OPENSTREET MAP(OSM)<br/>
+https://planet.openstreetmap.org/
 
+| Name | Description |
+| --- | --- |
+| Data in Malaysia/KL |  |
+| Data format | Osmosis(command line Java application for processing OSM data). Currently can do :<br/>- Generate planet dumps from a database<br/>- Load planet dumps into a database<br/>- Produce change sets using database history tables<br/>- Apply change sets to a local database<br/>- Compare two planet dump files and produce a change set<br/>- Re-sort the data contained in planet dump files<br/>- Extract data inside a bounding box or polygon |
+| | Two main formats used are PBF(Protocol Buffer Format) or bzip2-compressed OSM XML |
+| | https://wiki.openstreetmap.org/wiki/OSM_file_formats |
+| Data structre | |
+| Tools to used | Osm2psgl (converts OpenStreetMap data to postGIS-enabled PostgreSQL databases)<br/>PostGIS (extender for postgresqldb,support for geographic objects allowing location queries to be run in SQL |
+| | https://wiki.openstreetmap.org/wiki/Osmosis/PostGIS_Setup |
+| | https://wiki.openstreetmap.org/wiki/Osm2pgsql |
 
 | Left-aligned | Center-aligned | Right-aligned |
 | :---         |     :---:      |          ---: |
